@@ -1,4 +1,6 @@
 # Libertas Products : P2P file sender/receiver
+### WARNING : It is still in work, don't put files that goes over 500mb because you might get the "OutOfMemory" error, it is only used to send small files (for now).
+
 Here's the full repository to the P2P file sender and receiver for Windows.<br>
 This projects GUI is supported by the .NET Framework version 4.8 which is a proprietary shit but I can't do anything about it since it is the fastest way for me to create a usable GUI for the user. 
 <br><br>
